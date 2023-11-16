@@ -44,16 +44,15 @@ After running detection, find the results in `src/data/results`.
 
 ## Paper citing
 
-If you use the data, code, or information from this repository, please cite our paper, also available on [arXiv](link_to_arxiv).
+If you use the data, code, or information from this repository, please cite our paper, also available on [arXiv](https://arxiv.org/abs/2311.08838).
 
 ```bibtex
-@misc{
-  vykopal2023disinformation,
-  title={Disinformation Capabilities of Language Models},
-  author={Ivan Vykopal and Matúš Pikuliak and Ivan Srba and Robert Moro and Dominik Macko and Maria Bielikova},
-  year={2023},
-  archivePrefix={arXiv},
-  eprint={insert_eprint_number},
-  url={link_to_paper}
+@misc{vykopal2023disinformation,
+      title={Disinformation Capabilities of Large Language Models}, 
+      author={Ivan Vykopal and Matúš Pikuliak and Ivan Srba and Robert Moro and Dominik Macko and Maria Bielikova},
+      year={2023},
+      eprint={2311.08838},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
